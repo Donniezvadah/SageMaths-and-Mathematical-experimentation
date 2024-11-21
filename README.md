@@ -1,7 +1,9 @@
 # SageMaths-and-Mathematical-experimentation
-Mathematical experimentation
+## Mathematical experimentation
 
-Here is a repository with some assignments and experiments 
+### Here is a repository with some assignments and experiments
+
+# Here is also Group assignment *Animation of the solar system: Planets Orbiting around the Sun using 'Animate and Interact'*
 * here we are doing there different fields of Mathematics
 
 *  The use of a computer algebra system introduces mathematicians to an innovative approach to problem-solving through experimentation. This course demonstrates how such experiments can assist in resolving mathematical challenges, particularly in proving or disproving mathematical assertions. These experiments necessitate the use of computational tools; in this course, we will focus on the System for Algebra and Geometry Experimentation (SageMath).
